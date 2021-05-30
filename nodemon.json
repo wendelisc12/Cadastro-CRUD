@@ -1,0 +1,6 @@
+{
+    "restartable": "rs",
+    "ignore":[
+        "templates/*.marko.js"
+    ]
+}
